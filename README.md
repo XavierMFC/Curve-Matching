@@ -2,7 +2,7 @@
  * @Author: wanhaoming wanhaoming@outlook.com
  * @Date: 2024-06-24 23:58:49
  * @LastEditors: wanhaoming wanhaoming@outlook.com
- * @LastEditTime: 2024-06-25 22:58:50
+ * @LastEditTime: 2024-06-25 23:05:48
  * @FilePath: \Curve-Matching\README.md
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 -->
@@ -21,7 +21,7 @@ The implemention of paper：["Tree Species Classification of Forest Stands Using
 ## 1. Generating Objects  
 Traditional OBIA (Object-Based Image Analysis) methods were adopted to cluster the same pixel. (This is just a clustering method; you can choose any method you prefer, such as super-pixel segmentation or k-means based on features extracted by a deep learning model.)  
 
-![img](https://github.com/XavierMFC/Curve-Matching/blob/main/data/example_data/%E5%9B%BE%E7%89%874.png)
+![img](https://github.com/XavierMFC/Curve-Matching/blob/main/data/example_data/Segmentation.png)
 
 ## 2. Extracting Features  
 The key point of this method is how to express different structure data as curves.
