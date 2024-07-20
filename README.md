@@ -7,7 +7,7 @@
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 -->
 # Curve-Matching
-The implemention of paper：["Tree Species Classification of Forest Stands Using Multisource Remote Sensing Data"](https://www.mdpi.com/2072-4292/13/1/144)  
+The implementation of paper：["Tree Species Classification of Forest Stands Using Multisource Remote Sensing Data"](https://www.mdpi.com/2072-4292/13/1/144)  
 
 # Purpose of this method
     Fusion different structure data base on mechine learning
